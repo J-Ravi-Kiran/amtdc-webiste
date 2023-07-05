@@ -1,1055 +1,1288 @@
-@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@400;600;700&display=swap');
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/amtdc-style.css" />
+    <script src="js/script.js" defer></script>
+    <title>AMTDC | Welcome</title>
+    <link rel="icon" href="img/title-logo.png" type="image/x-icon">
+    <style data-styled="gYbmqi grUjoK epslmG jjHOVo elcqPa hIbIBI dfWsLk gvbUhe jetxJD ejeFbu LjmsR cEbfzl cUGnKg hpogDv dAbWLa gsneVv ipgpEj hfpfwN ljENwQ cyUOj bjipar eVflZd kkxowU dKXMiZ deVasU bTWBfd izuGTy jCBPFh iSDjLo kLGNPG kkpoJp cigzHf eHuJUq kKrLaN hKVJiG bMsZxu jlsFQF faXpY jUvDaQ gHDHmz gvFXoh oqmJV cSPlxu eNScwj hrkpmn jOCyva kZTUec cEshYq kQDkCh njJCO jptLll evxKCH VMRoK gWzEzK hkSEgW hNIpPv caIUET mCCNa fbaUoI fcmZxD dpbkxK" data-styled-version="4.4.1">
+      /* sc-component-id: sc-1waf9hk-0 */
+      .kLGNPG{z-index:10;position:absolute;bottom:20px;left:0;right:0;line-height:0;text-align:center;} @media (min-width:1440px){.kLGNPG{position:static;}} .kLGNPG button{opacity:0.8;-webkit-transition:opacity 0.3s,color 0.3s,background-color 0.3s;transition:opacity 0.3s,color 0.3s,background-color 0.3s;} .kLGNPG > .prev,.kLGNPG > .next{display:inline-block;vertical-align:middle;padding:10px;color:#ebebeb;background-color:rgba(0,0,0,0);} @media (min-width:1440px){.kLGNPG > .prev,.kLGNPG > .next{position:absolute;z-index:10;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);}} .kLGNPG > .prev:hover,.kLGNPG > .next:hover{color:#000;background-color:#ebebeb;} .kLGNPG > .prev svg,.kLGNPG > .next svg{width:10px;} @media (min-width:1440px){.kLGNPG > .prev svg,.kLGNPG > .next svg{width:30px;}} .kLGNPG > .prev{left:3.25%;} .kLGNPG > .next{right:3.25%;} .kLGNPG > .next svg{-webkit-transform:scale(-1,1);-ms-transform:scale(-1,1);transform:scale(-1,1);-webkit-transform-origin:center;-ms-transform-origin:center;transform-origin:center;} .kLGNPG > ul{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;vertical-align:middle;margin:0 10px;} @media (min-width:1440px){.kLGNPG > ul{position:absolute;z-index:10;bottom:20px;left:50%;-webkit-transform:translateX(-50%);-ms-transform:translateX(-50%);transform:translateX(-50%);}} .kLGNPG > ul li{margin:0 6px;} .kLGNPG > ul button{width:10px;height:10px;color:#ebebeb;border-radius:100%;border:1px solid currentColor;} .kLGNPG > ul button.current{background-color:currentColor;}
+      /* sc-component-id: a3m7uj-4 */
+      .bTWBfd{font-family:wf_bahnschrift_condensed,Bahnschrift,DIN,Calibri,Segoe UI,"Arial Narrow","Trebuchet MS",Tahoma,Segoe UI,Arial,sans-serif;font-size:1.125rem;line-height:1.3333333333333333;-webkit-letter-spacing:0.05em;-moz-letter-spacing:0.05em;-ms-letter-spacing:0.05em;letter-spacing:0.05em;margin:0;word-wrap:break-word;} @media (min-width:800px){.bTWBfd{font-size:1.25rem;line-height:1.3;}}
+      /* sc-component-id: sc-1waf9hk-1 */
+      .iSDjLo{padding-bottom:60px;} .iSDjLo nav{margin-bottom:1em;} .iSDjLo nav li{display:inline-block;} .iSDjLo nav li + li{margin-left:10px;} .iSDjLo nav button{border-radius:50%;width:40px;overflow:hidden;} .iSDjLo nav button.current{width:60px;border:2px solid #fff;} .iSDjLo > p{margin-top:14px;margin-bottom:26px;} @media (min-width:800px){.iSDjLo{padding-bottom:0;}}
+      /* sc-component-id: sc-17cyi7s-0 */
+      .jCBPFh h3 {color: #fff;} .jCBPFh p {color: #fff;} .jCBPFh a {color: #fff;} .jCBPFh{overflow:hidden;position:relative;} .jCBPFh > .image{position:relative;width:100%;display:block;} .jCBPFh > .image:before{content:'';display:block;padding-top:69.98616874135546%;} @media (min-width:500px){.jCBPFh > .image:before{padding-top:50.04945598417409%;}} .jCBPFh > .image img{position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:30% center;} .jCBPFh > .image.left img{object-position:70% center;} @media (min-width:800px){.jCBPFh > .image{position:static;}.jCBPFh > .image:before{display:none;}.jCBPFh > .image img{object-position:center;}} .jCBPFh > .wrapper{z-index:2;position:relative;max-width:1120px;margin-right:auto;margin-left:auto;padding-right:3.25%;padding-left:3.25%;box-sizing:content-box;text-align:center;} .jCBPFh > .wrapper > .bottom:before,.jCBPFh > .wrapper > .bottom:after{content:'';position:absolute;bottom:0;left:0;width:100%;} .jCBPFh > .wrapper > .bottom:before{top:-6vw;background:linear-gradient(to bottom,transparent 0%,#000 12vw,#000 100%);} .jCBPFh > .wrapper > .bottom:after{bottom:auto;top:-7vw;left:-50%;width:200%;height:100%;opacity:0.75;-webkit-transform:rotate(-10deg);-ms-transform:rotate(-10deg);transform:rotate(-10deg);-webkit-transform-origin:top center;-ms-transform-origin:top center;transform-origin:top center;background:linear-gradient(to top,transparent 0%,currentColor 100%);} @media (min-width:800px){.jCBPFh > .wrapper > .bottom{display:none;}} .jCBPFh > .wrapper > .contain{z-index:1;position:relative;} .jCBPFh > .wrapper > .contain > .content{width:100%;margin-top:-6vw;padding-top:1em;padding-bottom:2em;} .jCBPFh > .wrapper > .contain > .graphic{display:none;} .jCBPFh > .wrapper.left > .bottom:after{-webkit-transform:rotate(10deg);-ms-transform:rotate(10deg);transform:rotate(10deg);} @media (min-width:800px){.jCBPFh > .wrapper{text-align:right;}.jCBPFh > .wrapper > .contain{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:33.33333333333333%;min-width:320px;min-height:320px;}.jCBPFh > .wrapper > .contain > .content{margin:40px 0;padding:0;}.jCBPFh > .wrapper > .contain > .graphic{z-index:-1;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);left:70px;width:100%;height:calc(100% + 2px);min-height:667px;display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;}.jCBPFh > .wrapper > .contain > .graphic svg{background-color:transparent;max-width:none;height:100%;}.jCBPFh > .wrapper.left{text-align:left;}.jCBPFh > .wrapper.left > .contain > .graphic{left:-70px;}} @media (min-width:800px) and (min-height:800px){.jCBPFh > .wrapper > .contain{min-height:50vmin;}} @media (min-width:1000px){.jCBPFh > .wrapper > .contain > .graphic,.jCBPFh > .wrapper.left > .contain > .graphic{left:0;}}
+      /* sc-component-id: sc-1reua8k-0 */
+      .ipgpEj{position:relative;z-index:1;display:inline-block;-webkit-appearance:none;margin:0;border:0;padding:10px 28px 8px;font-family:wf_bahnschrift_semibold-condensed,Bahnschrift,DIN,Calibri,Segoe UI,"Arial Narrow","Trebuchet MS",Tahoma,Segoe UI,Arial,sans-serif;font-size:0.9375rem;line-height:1.4;-webkit-letter-spacing:0.05em;-moz-letter-spacing:0.05em;-ms-letter-spacing:0.05em;letter-spacing:0.05em;text-align:center;text-shadow:none !important;cursor:pointer;-webkit-transition:color 0.3s;transition:color 0.3s;color:#ebebeb;background-color:rgba(0,0,0,0);} @media (min-width:800px){.ipgpEj{font-size:1rem;line-height:1.375;}} .ipgpEj:before,.ipgpEj:after{content:'';position:absolute;top:0;left:0;bottom:0;} .ipgpEj:before{z-index:-2;right:0;border:2px solid #ebebeb;background-color:transparent;-webkit-transition:background-color 0.3s;transition:background-color 0.3s;} .ipgpEj:after{z-index:-1;right:0;background: orangered;-webkit-transform:scaleX(0);-ms-transform:scaleX(0);transform:scaleX(0);-webkit-transform-origin:top left;-ms-transform-origin:top left;transform-origin:top left;-webkit-transition:-webkit-transform 0.3s;-webkit-transition:transform 0.3s;transition:transform 0.3s;} .ipgpEj:hover{color:#000;} .ipgpEj:hover:after{-webkit-transform:scaleX(1);-ms-transform:scaleX(1);transform:scaleX(1);} .ipgpEj.secondary,.ipgpEj.secondary:before{background-color:#555;} .ipgpEj .state-waiting{position:absolute;top:0;bottom:0;left:0;right:0;overflow:hidden;background-color:#fccd00;cursor:default;display:inline-block;speak:none;font-style:normal;font-weight:normal;font-variant:normal;text-align:center;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;} .ipgpEj .state-waiting:before{content:'';display:inline-block;height:100%;width:0;vertical-align:middle;} .ipgpEj .state-waiting:after{content:'';position:relative;-webkit-animation:button-waiting-rotation 1s linear infinite;animation:button-waiting-rotation 1s linear infinite;width:1em;height:1em;padding:0;border:2px solid transparent;border-right-color:#fff;border-left-color:#fff;border-radius:50%;} .ipgpEj .slide-in{-webkit-animation:dAbWLa 0.3s ease 1;animation:dAbWLa 0.3s ease 1;} .ipgpEj .slide-out{-webkit-animation:gsneVv 0.3s ease 1;animation:gsneVv 0.3s ease 1;} .ipgpEj[disabled],.ipgpEj[disabled]:before{cursor:default;color:#999;background-color:#d9d9d9;} .ipgpEj[disabled]:after{right:100%;} .ipgpEj:focus:before,.ipgpEj:focus:after{border-color:#fccd00;} .ipgpEj:focus:hover:after{border:2px solid #ebebeb;}
+    </style>
+  </head>
+  <body>
+    <div id="overlay"></div>
+    <div id="mobile-menu" class="mobile-main-menu">
+      <ul>
+        <li class="mobile-only"><a href="about.html">AMTDC</a></li>
+        <li class="mobile-only"><a href="contact.html">Contact</a></li>
+        <li class="mobile-only"><a href="resources.html">Resources</a></li>
+        <li class="mobile-only"><a href="news.html">News & Events</a></li>
+        <li><a href="industrial.html">Industrial Clients</a></li>
+        <li class="mobile-only"><a href="tenders.html">Trenders & Notices</a></li>
+        <li><a href="government.html">Government Agencies</a></li>
+        <li class="mobile-only"><a href="research.html">Research & Technology</a></li>
+        <li><a href="researchers.html">Researchers & Students</a></li>
+      </ul>
+    </div>
+    <header id="main-header" class="main-header">
+      <div class="logo">
+        <a href="index.html">
+          <img src="img/amtdc_logo.png" alt="AMTDC" />
+        </a>
+      </div>
+      <div class="amtdc-title">
+        <ul>
+          <li><a href="index.html">Advanced Manufacturing Technology Development Centre</a></li>
+          <li><b href="#">Center of Excellence on Machine Tools and Production Technology</b></li>
+        </ul>
+      </div>
+      <nav class="desktop-main-menu">
+        <ul>
+          <li><a href="about.html">AMTDC</a></li>
+          <li><a href="research.html">Research & Technology</a></li>
+          <li><a href="resources.html">Resources</a></li>
+          <li><a href="news.html">News & Events</a></li>
+          <li><a href="tenders.html">Trenders & Notices</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <!-- Hamburger Menu -->
+    <button id="menu-btn" class="hamburger" type="button">
+      <span class="hamburger-top"></span>
+      <span class="hamburger-middle"></span>
+      <span class="hamburger-bottom"></span>
+    </button>
+
+    <!-- Sidebar Hamburger Menu -->
+    <button id="sidebar-menu-btn" class="sidebar-hamburger desktop-only" type="button">
+      <span class="sidebar-hamburger-top"></span>
+      <span class="sidebar-hamburger-middle"></span>
+      <span class="sidebar-hamburger-bottom"></span>
+      <a>About</a>
+    </button>
+
+    <!--side-menu-->
+    <div id="sidebar-menu" class="sidebar-main-menu">
+      <ul>
+        <li class="desktop-only"><a href="#background">Background</a></li>
+        <li class="desktop-only"><a href="#profile">Profile of AMTDC</a></li>
+        <li class="desktop-only"><a href="#governing">Governing Board</a></li>
+        <li class="desktop-only"><a href="#organizational">Oraganizational Ecosystem</a></li>
+        <li class="desktop-only"><a href="#core">Core Group</a>
+          <ul>
+            <li class="desktop-only"><a href="#iitmf">IITm Faculty</a></li>
+            <li class="desktop-only"><a href="#advisory">Advisory Committee</a></li>
+            <li class="desktop-only"><a href="#research">Research Advisory Committee </a></li>
+            <li class="desktop-only"><a href="#amtdc">AMTDC Staff</a></li>
+            <li class="desktop-only"><a href="#intern">Intern Students</a></li>
+            <li class="desktop-only"><a href="#ex">Ex-Employees</a></li>
+            <li class="desktop-only"><a href="#iitms">IITM Sudents</a></li>
+          </ul>
+        </li>
+        <li class="desktop-only"><a href="#testimonals">Testimonals</a></li>
+        <li class="desktop-only"><a href="#awards">Awards & Recognitions</a></li>
+      </ul>
+    </div>
 
-*,
-*::before,
-*::after {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Title size */
-.amtdc-title a {
-  font-weight: bold;
-  text-decoration: none;
-  color: #000;
-  font-size: 26px;
-  animation: fadeInUp 0.25s ease-in-out 0.1s;
-  animation-fill-mode: both; /* Stop from showing at start */
-}
-
-body {
-  font-family: 'Familjen Grotesk', sans-serif;
-  /*background: rgb(252, 102, 48);*/
-  background: #fff;
-  color: #000;
-}
-
-a {
-  text-decoration: none;
-  color: #000;
-  animation: fadeInUp 0.25s ease-in-out 0.1s;
-  animation-fill-mode: both; 
-}
-
-b {
-  text-decoration: none;
-  color: #000;
-  font-size: 15px;
-  border-bottom: 1px #000 dotted;
-  padding-bottom: 8px;
-  animation: fadeInUp 0.25s ease-in-out 0.1s;
-  animation-fill-mode: both; 
-}
-
-q {
-  text-decoration: none;
-  color: #000;
-}
-
-ul {
-  list-style: none;
-}
-
-/* Header/Navbar */
-.main-header {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: 3;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  text-transform: uppercase;
-  height: 100px;
-  padding: 0 30px;
-  translate: top 0.3s;
-}
-
-/* Logo */
-.logo {
-  width: 210px;
-  height: auto;
-  padding-top: 20px;
-  padding-right: 10px;
-}
-
-.logo img {
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-/* Desktop Menu */
-.desktop-main-menu {
-  margin-right: 10px;
-  font-size: large;
-  font-weight: 550;
-  color: orangered;
-}
-
-.desktop-main-menu ul {
-  display: flex;
-}
-
-.desktop-main-menu ul li {
-  position: relative;
-  margin-right: 20px;
-  padding-bottom: 2px;
-}
-
-/* Menu item colour */
-.desktop-main-menu ul li a {
-  color: orangered;
-}
-
-/* Menu item bottom border */
-.desktop-main-menu ul li a::after {
-  content: '';
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  width: 100%;
-  height: 1px;
-  background: rgb(252, 102, 48);
-  transform: scaleX(0);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-  transform-origin: right center;
-}
-
-.desktop-main-menu ul li a:hover::after {
-  transform: scaleX(1);
-  transform-origin: left center;
-  transition-duration: 0.4s;
-}
-
-/* Sections */
-section {
-  position: relative;
-  height: 100vh;
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  text-transform: uppercase;
-}
-
-.section1 {
-  position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  width: auto;
-  height: auto;
-  text-transform: none;
-}
-
-.section2 {
-  position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  height: auto;
-  text-transform: none;
-}
-
-.section3 {
-  position: relative;
-  display: flex;
-  flex-wrap: wrap;
-  height: auto;
-  text-transform: none;
-}
-
-.section4 {
-  position: relative;
-  height: 1000px;
-  text-transform: none;
-}
-
-.section5 {
-  position: relative;
-  height: 6000px;
-  text-transform: none;
-}
-
-.section6 {
-  position: relative;
-  height: 3500px;
-  text-transform: none;
-}
-
-.section7 {
-  position: relative;
-  width: 80%;
-  height: 1500px;
-  text-transform: none;
-}
-
-.c-map {
-  position: relative;
-  top: 150px;
-  left: 300px;
-  display: flex;
-}
-
-.c-address {
-  position: relative;
-  top: 200px;
-  left: 300px;
-  display: flex;
-  column-gap: 30px;
-}
-
-.inquiry-form {
-  position: relative;
-  display: flex;
-}
-
-.grid{
-  display: flex;
-  flex-wrap: wrap;
-  background-color: aqua;
-}
-
-.section-inner {
-  position: absolute;
-  top: 100vp;
-  bottom: 200px;
-  left: 100px;
-  max-width: 560px;
-}
-
-.section-inner1{
-  position: relative;
-  bottom: 200px;
-  left: 70px;
-  max-width: 560px;
-}
-
-.section-inner h4 {
-  font-size: 22px;
-  margin-bottom: 5px;
-  font-weight: 300;
-  animation: fadeInUp 0.5s ease-in-out;
-  color: rgb(248, 69, 4);
-}
-
-.section-inner h2 {
-  font-size: 35px;
-  font-weight: 700;
-  margin-bottom: 2px;
-  animation: fadeInUp 0.5s ease-in-out 0.2s;
-  animation-fill-mode: both;   
-}
-
-.section-inner a {
-  animation: fadeInUp 0.5s ease-in-out 0.4s;
-  animation-fill-mode: both;   
-}
-
-.section-inner1 q {
-  animation: fadeInUp 0.5s ease-in-out 0.4s;
-  animation-fill-mode: both;   
-}
-
-/* Section for pages */
-.section-para {
-  width: 80%;
-  position: relative;
-  top: 150px;
-  left: 300px;
-  text-align: justify;
-  transform: translateX(0);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.expand {
-  transform: translateX(-12%);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.section-para h4 {
-  font-size: 22px;
-  margin-bottom: 5px;
-  font-weight: 300;
-  font-style: normal;
-  animation: fadeInUp 0.5s ease-in-out 0.2s;
-}
-
-.section-para h3 {
-  font-size: 28px;
-  margin-bottom: 5px;
-  font-weight: 450;
-  animation: fadeInUp 0.5s ease-in-out 0.2s;
-}
-
-.section-para h2 {
-  font-size: 35px;
-  font-weight: 700;
-  color: rgb(248, 69, 4);
-  margin-bottom: 2px;
-  animation: fadeInUp 0.5s ease-in-out 0.2s;
-  animation-fill-mode: both; /*Stop from showing at start*/
-}
-
-.section-para a {
-  text-decoration: none;
-  color: #000;
-  animation: fadeInUp 0.25s ease-in-out 0.1s;
-  animation-fill-mode: both; /*Stop from showing at start*/
-}
-
-.section-para p {
-  height: auto;
-  display: flex;
-  flex-wrap: wrap;
-  text-decoration: solid;
-  color: #000;
-  font-weight: 700;
-  animation: fadeInUp 0.5s ease-in-out 0.4s;
-  animation-fill-mode: both; /*Stop from showing at start*/
-}
-
-/* Background images */
-.section-a {
-  background-image: url('../img/kite1.jpg'); 
-  background-size: auto;
-  background-position-y: 100px;
-}
-.section-b {
-  background-image: url('../img/5-axis1.png');
-
-}
-.section-c {
-  background-image: url('../img/mtabrob.png');
-}
-.section-d {
-  background-image: url('../img/cnc-lathe.png');
-}
-.section-e {
-  background-image: url('../img/electric-drive.JPG');
-}
-.section-f {
-  background-image: url('../img/Grinding-Process.jpg');
-}
-.section-g {
-  background-image: url('../img/lab.jpg');
-}
-.section-h {
-  background-image: url('../img/support.jpg');
-}
-.section-background {
-  background-position: center center;
-  height: 2vp;
-  background-size: contain;
-  background-image: url('../img/amtdc_logo1.png');
-  background-repeat: no-repeat;
-}
-
-.btn {
-  position: relative;
-  display: inline-block;
-  cursor: pointer;
-  text-align: center;
-  min-width: 130px;
-  padding: 15px 50px;
-  margin-top: 10px;
-  border: 2px solid #000;
-  text-transform: uppercase;
-  font-weight: bold;
-  overflow: hidden;
-  z-index: 2;
-}
-
-.btn:hover span {
-  color: #000;
-}
-
-.btn .hover {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgb(252, 102, 42);
-  color: #000;
-  z-index: -1;
-  transform: translateY(100%);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.btn:hover .hover {
-  transform: translateY(0);
-}
-
-.scroll-arrow {
-  position: absolute;
-  width: auto;
-  bottom: 50px;
-  left: 50%;
-  transform: translateX(-50%);
-  animation: fadeBounce 5s infinite;
-}
-
-/* Footer */
-footer {
-  position: relative;
-  height: 100px;
-  padding: 55px 0;
-}
-
-footer ul {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-}
-
-footer ul li {
-  margin-right: 30px;
-  color: #2e2c2c;
-  text-transform: uppercase;
-  font-size: 20px;
-  line-height: 2.5;
-}
-
-footer ul li a {
-  color: #000;
-  transition: color 0.6s;
-}
-
-footer ul li a:hover {
-  color: #2e2c2c;
-}
-
-/* Hamburger Menu */
-.hamburger {
-  position: fixed;
-  top: 40px;
-  right: 20px;
-  z-index: 10;
-  cursor: pointer;
-  width: 20px;
-  height: 20px;
-  background: none;
-  border: none;
-}
-
-.hamburger-top,
-.hamburger-middle,
-.hamburger-bottom {
-  position: absolute;
-  width: 20px;
-  height: 2px;
-  top: 0;
-  left: 0;
-  background: rgb(252, 102, 48);
-  transition: all 0.5s;
-}
-
-.hamburger-middle {
-  transform: translateY(5px);
-}
-
-.hamburger-bottom {
-  transform: translateY(10px);
-}
-
-/* Transition hamburger to X when open */
-.open {
-  transform: rotate(90deg);
-}
-
-.open .hamburger-top {
-  transform: rotate(45deg) translateY(6px) translateX(6px);
-}
-
-.open .hamburger-middle {
-  display: none;
-}
-
-.open .hamburger-bottom {
-  transform: rotate(-45deg) translateY(6px) translateX(-6px);
-}
-
-/* Overlay */
-.overlay-show {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background-color: rgba(0, 0, 0, 0.5);
-  z-index: 3;
-}
-
-/* Stop body scroll */
-.stop-scrolling {
-  overflow: hidden;
-}
-
-/* Hide mobile main menu items */
-.mobile-only {
-  display: none;
-}
-
-.show-mobile-only .mobile-only{
-  display: block;
-}
-
-/* Mobile menu */
-.mobile-main-menu {
-  position: fixed;
-  top: 0;
-  right: 0;
-  width: 350px;
-  height: 100%;
-  background: #000;
-  z-index: 4;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transform: translateX(100%);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-/* Bring menu from right */
-.show-menu {
-  transform: translateX(0);
-}
-
-.mobile-main-menu ul {
-  display: flex;
-  flex-direction: column;
-  align-items: end;
-  justify-content: center;
-  padding: 50px;
-  width: 100%;
-}
-
-.mobile-main-menu ul li {
-  margin-bottom: 20px;
-  font-size: 18px;
-  text-transform: uppercase;
-  border-bottom: 1px #555 dotted;
-  width: 100%;
-  text-align: right;
-  padding-bottom: 8px;
-}
-
-.mobile-main-menu ul li a {
-  color: rgb(252, 102, 48);
-  transition: color 0.6s;
-}
-
-.mobile-main-menu ul li a:hover {
-  color: #aaa;
-}
-
-/* Sidebar Hamburger Menu */
-.sidebar-hamburger {
-  position: fixed;
-  top: 120px;
-  left: 40px;
-  z-index: 10;
-  cursor: pointer;
-  width: 20px;
-  height: 20px;
-  background: none;
-  border: none;
-}
-
-.sidebar-hamburger a {
-  font-size: 20px;
-  font-weight: bold;
-  color: orangered;
-  background: #fff;
-}
-
-.sidebar-hamburger-top,
-.sidebar-hamburger-middle,
-.sidebar-hamburger-bottom {
-  position: fixed;
-  width: 20px;
-  height: 2px;
-  top: 125px;
-  left: 10px;
-  background: orangered;
-  transition: all 0.5s;
-}
-
-.sidebar-hamburger-top {
-  transform: rotate(45deg) translateY(6px) translateX(6px);
-}
-
-.sidebar-hamburger-middle {
-  display: none;
-}
-
-.sidebar-hamburger-bottom {
-  transform: rotate(-45deg) translateY(6px) translateX(-6px);
-}
-
-/* Transition sidebar hamburger to X when close */
-.close {
-  transform: rotate(90deg);
-}
-
-.close .sidebar-hamburger-middle {
-  transform: translateY(5px);
-}
-
-.close .sidebar-hamburger-bottom {
-  transform: translateY(10px);
-}
-
-/* Side-bar-menu */
-.sidebar-main-menu {
-  position: fixed;
-  top: 150px;
-  left: 0;
-  width: auto;
-  height: auto;
-  background: rgb(255, 102, 0);
-  z-index: 4;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-  transform: translateX(0);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-/* Hide menu to left */
-.hide-menu {
-  transform: translateX(-100%);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-
-.sidebar-main-menu ul {
-  display: flex;
-  flex-direction: column;
-  justify-content: left;
-  padding: 10px;
-  width: 100%;
-}
-
-.sidebar-main-menu ul li {
-  margin-bottom: 0px;
-  font-size: 17px;
-  font-weight: 600;
-  text-transform: capitalize;
-  border-bottom: 0.01px #e6e0e0 dotted;
-  width: 100%;
-  text-align: left;
-  padding-bottom: 6px;
-}
-
-.sidebar-main-menu ul li a {
-  color: #fff;
-  transition: color 0.6s;
-}
-
-.sidebar-main-menu ul li a:hover {
-  color: orangered;
-}
-
-.section-animate {
-  animation: fadeIn 0.75s ease-in-out;
-}
-
-.section-inner-center {
-  position: relative;
-  top: 200px;
-  left: 100px;
-  max-width: 200px;
-  /*top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  text-transform: uppercase;*/
-  text-align: justify;
-  width: 100%
-}
-
-/* Stats */
-.stats {
-  max-width: 960px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  text-align: center;
-  text-transform: uppercase;
-}
-
-.stats div span {
-  font-size: 160px;
-}
-
-.stats div h4 {
-  font-size: 24px;
-  font-weight: 300;
-}
-
-/* Image Gallery for testimonals */
-.image-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 10px;
-  animation: fadeInUp 0.5s ease-in-out 0.4s;
-  animation-fill-mode: both;
-}
-
-.image-gallery > li {
-  flex-basis: 350px; /* width: 350px; */
-  flex-direction: row;
-}
-
-.image-gallery li img {
-  object-fit: cover;
-  max-width: 100%;
-  width: 100%;
-  height: 100%;
-  vertical-align: middle;
-  border-radius: 5px;
-}
-
-/* Animations */
-
-@keyframes fadeInUp {
-  0% {
-    opacity: 0;
-    transform: translateY(140px);
-  }
-
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-@keyframes fadeIn {
-  0% {
-    opacity: 0;
-  }
-
-  100% {
-    opacity: 1;
-  }
-}
-
-@keyframes fadeBounce {
-  0%,
-  20%,
-  50%,
-  80%,
-  100% {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-
-  40% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Media Queries */
-
-/*@media (max-width: 768px) {
-  /* sections height 
-  .section2 {
-    height: 1200px;
-  }
-  .section3 {
-    height: 1400px;
-  }
-  .section4 {
-    height: 1000px;
-  }
-  .section5 {
-    height: 6000px;
-  }
-  .section6 {
-    height: 3500px;
-  }
-}*/
-
-@media(width: 1920px){
-  .section2{
-    height: 1500px;
-  } 
-  .section4 {
-    height: 1200px;
-  }
-  .section-para{
-    left: 300px;
-  }
-  .expand {
-    transform: translateX(-6%);
-    transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-  }
-}
-
-@media(max-width: 1250px){
-  .amtdc-title {
-    display: none;
-  }
-}
-
-
-@media (max-width: 960px) {
-  /* Hide desktop menu */
-  .desktop-main-menu {
-    display: none;
-  }
-
-  /* Hide sidebar menu */
-  .display-only {
-    display: none;
-  }
-
-  /* Show main mobile items */
-  .mobile-only {
-    display: block;
-  }
-
-  .section-inner-center h3 {
-    font-size: 75px;
-  }
-
-  .section1 {
-    height: 830px;
-  }
-
-  .section2{
-    height: 1050px;
-  }
-
-  .section3{
-    height: 1050px;
-  }
-
-  .close {
-    left: 20px;
-  }
-}
-
-@media (max-width: 600px) {
-  a {
-    text-decoration: none;
-    color: #000;
-  }
   
-  b {
-    display: none;
-  }
+    <!-- Paragragraphs back ground -->
+    <div id="para1" class="section-para">
+      <!-- Background -->
+      <h2><span id="background">Background</span></h2>
+      <hr>
+      <div class="section-background">
+      <p>
+        The synergy created by the troika of government-academia-industry had long been known to create an ecosystem for relentless innovation. Many developed countries like USA, Germany, UK, Japan had leveraged this collaborative model to remain at the top of the technology chain. Realizing the need for such a system in India, especially for the capital goods manufacturing sector, Indian Machine Tool Manufacturers’ Association (IMTMA) and its think tank had long been pushing the Government of India and various academic institutions to create schemes for the collaboration of academia and capital goods industry. IIT Madras took a plunge in 2008 to create such an ecosystem and finally in 2012 had a proposal sanctioned by Office of the Principal Scientific Adviser (OPSA) to GoI to Develop a Next Generation High Precision Grinding Machine in collaboration with an industrial partner. As the project progressed, the confidence for academia-industry collaboration strengthened in the minds of IIT Madras and IMTMA. As a result, in 2013, IMTMA and IIT Madras jointly convened a meeting with IMTMA’s members to deliberate on the need for Centres of Excellence that could develop the fledgling ecosystem. The positive deliberations in the meeting, helped the IMTMA to push the case with GoI and the Governments own study through the Planning Commission and DIPP pointed out the need to promote such schemes for the development of the capital goods sector in India.
+      </p>
+      </div>
+      <hr>
+      <p>
+        The sustained efforts from IMTMA and Government of India led to the formulation of the “Enhancement of Competitiveness of Capital Goods Sector” scheme in 2015. Under this scheme provisions were created for the formation of Centres of Excellence with eminent academia and R&D institutes. IIT Madras being an prime mover, took the opportunity to submit a proposal for the formation of Centre of Excellence on Machine Tools and Production Technology along with the support of IMTMA. The proposal was submitted with the support of six industrial partners and with eleven proposals for technology development. The same was sanctioned in January 2016.
+      </p>
+      <hr>
+      <p>
+        Meanwhile the project that started in 2012 with the support of OPSA was nearing its conclusion with the development of a Next Generation Precision Grinder, which was finally inaugurated by Dr. Chidambaram, Principal Scientific Adviser to GoI at IIT Madras in June 2016. The grand success of this project once again showcased the potential of the synergistic troika of government-academia-industry for commercially viable product development. With the success of the project and sanction for the CoE, IIT Madras formed the Centre of Excellence on Machine Tools and Production Technology as a special purpose vehicle and Advanced Manufacturing Technology Development Center (AMTDC) was setup as a registered society under Tamil Nadu Societies Registration Act, 1975.
+      </p>
+
+      <div class="scroll-arrow">
+        <svg width="30px" height="20px">
+          <path
+            stroke="#000000"
+            fill="none"
+            stroke-width="5px"
+            d="M2.000,5.000 L15.000,18.000 L28.000,5.000 "
+          ></path>
+        </svg>
+    `</div>
+      
+    </div>
+    
+
+    <br>
+    <br> 
+    
+    <div id="para2" class="section-para">
+     <!-- Profile -->
+      <h2><span id="profile">Profile Of AMTDC</span></h2>
+      <div class="section-background">
+      <p>Advanced Manufacturing Technology Development Centre (AMTDC) is a Centre of Excellence on Machine Tools and Production Technology supported by the Department of Heavy Industry (DHI), Government of India in collaboration with Indian Machine Tools Manufacturers under the scheme “Enhancement of Competitiveness in Indian Capital Goods Sector”. AMTDC is one of its kind in India, bringing the concept of Industry-Academia collaboration into reality. It is set up in IIT Madras Research Park, a nodal infrastructure for academia-industry interaction under one roof, to offer solutions for developing advanced technologies in capital goods manufacturing sector with the collaboration of industrial partners.
+      </p>
+      <hr>
+      <h3>Vision</h3>
+      <p>AMTDC’s vision is to serve as a synergistic institution for transformational research that combines the expertise of eminent faculty, industry experts, researchers, engineers and enthusiastic students to innovate commercially viable solutions / technologies / product for capital goods manufacturing sector in India.
+      </p>
+      </div>
+      <hr>
+      <h3>Mission</h3>
+      <p>The three main missions of the centre is to create Technologies that are commercially viable for use in capital goods manufacturing sector High quality human resources for manufacturing sector Opportunities for incubation of new technologies and promote business development for MSME/SMEs 
+      </p>
+      <hr>
+      <img src="img/profile.jpg" width="50%" style="margin-left: 20%;"/>
+      <h3>Guiding Principle</h3>
+      <div class="section-background">
+      <p>The main guiding principle of AMTDC is to create End to End Innovation, which translates as being innovative right from the stage of conceptualization to the stage of creating a commercially viable end product. According to Dr. K Subramanian, President, STIMS Institute, USA, End to End innovation is an aspect of transformational skillset required to be part of a professional involved in creating exceptional and relentless solutions. As AMTDC is a synergy of such professionals across the domain of basic research to applied research, End to End Innovation forms the guide light for the adventurous pathway of innovation. 
+      </p>
+      <hr>
+      </div>
+
+      <div class="scroll-arrow">
+        <svg width="30px" height="20px">
+          <path
+            stroke="#000000"
+            fill="none"
+            stroke-width="5px"
+            d="M2.000,5.000 L15.000,18.000 L28.000,5.000 "
+          ></path>
+        </svg>
+    `</div>
+    
+    </div>    
+ 
   
-  c {
-    display: none;
-  }
+
+  <br>
+  <br>
+
+    <div id="para3" class="section-para">
+      <h2 id="governing">Governing Board</h2>
+      <hr>
+      <!--tablist-->
+      <div class="sc-17cyi7s-0 jCBPFh" role="tablist" aria-owns="spotlight-0 spotlight-1 spotlight-2 spotlight-3" aria-label="Employee Spotlights carousel" tabindex="0" class="sc-17cyi7s-0 jCBPFh">
+        <span class="image">
+            
+                <!-- image 1920x506 -->
+                <img src="img/Prof_NRB1.jpg" alt=""/>
+            
+        </span>
+        <div class="wrapper">
+            <div class="contain">
+                <div class="content">
+                    <div class="sc-1waf9hk-1 iSDjLo">
+                        <h2 class="a3m7uj-1 bjipar">
+                          Prof. N. Ramesh Babu
+                        </h2>
+                        <h3 class="a3m7uj-4 bTWBfd">
+                          Secretary
+                        </h3>
+                        <p>Professor
+                          Department of Mechanical Engineering
+                          Indian Institute of Technology Madras                            
+                        </p>
+                        <a class="sc-1reua8k-0 ipgpEj" href="/news/articles/XhavarStrothers">
+                            Learn More
+                        </a>
+                    </div>
+                </div>
+                <div class="graphic">
+                    <svg style="transform:scale(1,-1)" viewBox="0 0 267 117">
+                        <defs>
+                            <linearGradient id="bld_010336621578306282_main" x1="0%" y1="0%" x2="0%" y2="100%" gradientTransform="rotate(120 0.5,0.5)">
+                                <stop offset="0%" stop-color="#000">
+                                </stop>
+                                <stop offset="100%" stop-color="#626e81" stop-opacity="0.6">
+                                </stop>
+                            </linearGradient>
+                            <linearGradient id="bld_010336621578306282_sides" x1="0%" y1="0%" x2="0%" y2="100%" gradientTransform="rotate(120 0.5,0.5)">
+                                <stop offset="0%" stop-color="#fff" stop-opacity="0">
+                                </stop>
+                                <stop offset="100%" stop-color="#fff">
+                                </stop>
+                            </linearGradient>
+                        </defs>
+                        <polygon opacity="0.3" fill="url(#bld_010336621578306282_sides)" points="118.16 117 123.27 117 83.23 76.95 83.23 72.6 10.63 0 1.16 0 118.16 117">
+                        </polygon>
+                        <polygon opacity="0.3" fill="url(#bld_010336621578306282_sides)" points="148.7 0 145.31 0 183.98 38.6 183.98 43.26 257.6 117 265.7 117 148.7 0">
+                        </polygon>
+                        <polygon fill="url(#bld_010336621578306282_main)" points="183.98 43.26 183.98 38.6 145.31 0 10.63 0 83.23 72.6 83.23 76.95 123.27 117 257.6 117 183.98 43.26">
+                        </polygon>
+                    </svg>
+                </div>
+            </div>
+            <div class="bottom" style="color:#626e81">
+            </div>
+        </div>
+        <nav class="sc-1waf9hk-0 kLGNPG">
+            <button data-mscc-ic="true" aria-label="Previous" class="prev" type="button">
+                <svg viewBox="0 0 48 100" fill="currentColor" title="Previous">
+                    <path d="M9.1 50L47.5 0h-8.6L.5 50l38.4 50h8.6z">
+                    </path>
+                </svg>
+            </button>
+            <ul>
+                <li>
+                    <button id="spotlight-0" data-mscc-ic="true" role="tab" aria-label="Slide 1" tabindex="-1" aria-posinset="1" aria-setsize="4" aria-selected="true" class="current" type="button">
+                    </button>
+                </li>
+                <li>
+                    <button id="spotlight-1" data-mscc-ic="true" role="tab" aria-label="Slide 2" tabindex="-1" aria-posinset="2" aria-setsize="4" aria-selected="false" type="button">
+                    </button>
+                </li>
+                <li>
+                    <button id="spotlight-2" data-mscc-ic="true" role="tab" aria-label="Slide 3" tabindex="-1" aria-posinset="3" aria-setsize="4" aria-selected="false" type="button">
+                    </button>
+                </li>
+                <li>
+                    <button id="spotlight-3" data-mscc-ic="true" role="tab" aria-label="Slide 4" tabindex="-1" aria-posinset="4" aria-setsize="4" aria-selected="false" type="button">
+                    </button>
+                </li>
+            </ul>
+            <button data-mscc-ic="true" aria-label="Next" class="next" type="button">
+                <svg viewBox="0 0 48 100" fill="currentColor" title="Next">
+                    <path d="M9.1 50L47.5 0h-8.6L.5 50l38.4 50h8.6z">
+                    </path>
+                </svg>
+            </button>
+        </nav>
+      </div>
+
+      <!-- Governing Board -->
+      <div class="ab-content-wrapper">
+        <div class="ab-board-mem-wrapper">
+              <div class="ab-board-mem-title"><strong>Chairman</strong></div>
+              <div class="ab-board-mem-photo" style="background-image: url(img/pics/bhaskar-ramamurthi.jpg)"></div>
+              <div class="ab-board-mem-description"><strong>Prof. Bhaskar Ramamurthi</strong><br>Director <br /> Indian Institute of Technology Madras
+              </div>
+          </div>
+      
+          <div class="ab-board-mem-wrapper">
+              <div class="ab-board-mem-title"><strong>Co-Chairman</strong></div>
+              <div class="ab-board-mem-photo" style="background-image: url(img/pics/Ravindra_Gettu.jpg)"></div>
+              <div class="ab-board-mem-description"><strong>Prof. Ravindra Gettu</strong><br>Dean, IC &amp; SR <br /> Indian Institute of Technology Madras
+              </div>
+          </div>
+      
+          <div class="ab-board-mem-wrapper">
+              <div class="ab-board-mem-title"><strong>Secretary</strong></div>
+              <div class="ab-board-mem-photo" style="background-image: url(img/pics/Prof_NRB.JPG)"></div>
+              <div class="ab-board-mem-description"><strong>Prof. N. Ramesh Babu</strong><br>Professor <br /> Department of Mechanical Engineering <br /> Indian Institute of Technology Madras
+              </div>
+          </div>
+        </div>
+        <br>
+        <br>
+        <!--members-->
+        <h3>Members</h3>
+        <hr>
+        <!-- <div class="grid"> -->
+        <div class="ab-content-wrapper">       
+                    
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/radhakrishnan.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Dr. P. Radhakrishnan</strong><br>Director, <br /> PSG Institute of Advanced Studies <br /> Coimbatore
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/krishna_vasudevan.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Prof. Krishna Vasudevan</strong><br>Professor <br /> Department of Electrical Engineering <br /> Indian Institute of Technology Madras
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/sathyan_subbaiah.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Dr. Sathyan Subbaiah</strong><br>Associate Professor <br /> Department of Mechanical Engineering <br /> Indian Institute of Technology Madras
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/varathan_anbu.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. Varathan Anbu</strong><br>Director General <br /> Indian Machine Tool Manufacturer’s Association <br /> Bangalore
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/srivats_ram.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. Srivats Ram</strong><br>Managing Director <br /> Wheels India Limited <br /> Chennai
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/nagahanumaiah.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Dr. Nagahanumaiah</strong><br>Director <br />  Central Manufacturing Technology Institute, Bengaluru
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/rangachar.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. C. P. Rangachar</strong><br>Managing Director <br /> Yuken India Limited
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/mohd_zakir.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. Mohd Zakir Hussain</strong><br>Director <br /> Department of Heavy Industry, Government of India
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/mohankumar.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. K. G. MohanKumar</strong><br>Managing Director <br /> Toyota Kirloskar Auto Parts Pvt Ltd.
+                </div>
+            </div>
+        
+            <div class="ab-board-mem-wrapper" >
+                <div class="ab-board-mem-photo" style="background-image: url(img/pics/kaustubh_shukla.jpg)"></div>
+                <div class="ab-board-mem-description"><strong>Shri. Kaustubh Shukla</strong><br>Chief Operating Officer <br /> Industrial Products Division, Godrej &amp; Boyce Mfg Co Ltd.
+                </div>
+            </div>
+          
+        </div>
+    <!--  </div>-->            
+    </div>
+
+    <div class="scroll-arrow">
+      <svg width="30px" height="20px">
+        <path
+          stroke="#000000"
+          fill="none"
+          stroke-width="5px"
+          d="M2.000,5.000 L15.000,18.000 L28.000,5.000 "
+        ></path>
+      </svg>
+  `</div>   
+
+  <br>
+  <br>
+
+    <div id="para4" class="section-para">
+      <!-- Organizational Ecosystem -->
+      <h2><span id="#organizational">Organizational Ecosystem</span></h2>
+      <img src="img/ecosystem.png" width="80%" style="margin-left: 10%;margin-top: 20px;"/>
+        <div class="section-background">
+          <p>The AMTDC ecosystem is governed by a Governing Board with eminent members from various fields such as
+              academia, industry, R&D institutions and government. The board meets once in six months to make policy
+              decisions and to periodically monitor the functions of the center. The day to day running of the center is
+              executed by a Management committee, which is made of members from Governing Board. The management committee
+              together with two sub-committees, namely Recruitment and Personnel Committee and Purchase and Procurement
+              Committee oversees the operation of the core group of AMTDC.
+              The core group of AMTDC is a fluid system consisting of mutually interacting teams of dedicated AMTDC
+              researchers, engineers and administrative staff who work with IIT Madras faculty and students, to create
+              technologies in collaboration with partnering industries. This synergistic ecosystem allows AMTDC to follow
+              its guiding principle of End to End Innovation.
+          </p>
+          <hr>
+        </div>
+
+    </div>
+    
+   
+    <div class="scroll-arrow">
+      <svg width="30px" height="20px">
+        <path
+          stroke="#000000"
+          fill="none"
+          stroke-width="5px"
+          d="M2.000,5.000 L15.000,18.000 L28.000,5.000 "
+        ></path>
+      </svg>
+  `</div>
   
-  q {
-    text-decoration: none;
-    color: gold;
-  }
+
+    <div id="para5" class="section-para">
+      <!-- Core Group -->
+      <h2><span id="core">Core Group</span></h2>
+       
+      <br>
+      <!-- IITM Faculty -->
+      <h3><span id="iitmf">IITM Faculty</span></h3>
+      <hr>
+      <div class="ab-content-wrapper">
+          
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Prof_NRB.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. N. Ramesh Babu</strong><br>
+                Professor, Department of Mechanical Engineering, IIT Madras<br><br>
+                
+                    Dr. Ramesh Babu received his PhD from IIT Madras in the year 1990. His research interest includes Manufacturing Technology, Grinding, Abrasive Waterjet Machining, Sheet metal fabrication, Laser Beam Machining, CNC, PLCs &amp; Robotics, Precision Machine Tool development, Process modeling and Simulation of manufacturing systems. His publications include 61 International Journal Papers and 104 National/International Conference Papers.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://mech.iitm.ac.in/meiitm/personnal/n-ramesh-babu/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://mech.iitm.ac.in/meiitm/personnal/n-ramesh-babu/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/krishna_vasudevan.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. Krishna Vasudevan</strong><br>
+                Professor, Department of Electrical Engineering, IIT Madras<br><br>
+                
+                    Dr. Krishna Vasudevan received his PhD from IIT Madras in the year 1996. His research interest includes Power Conversion and control for renewable energy, Drives for Low speed Motor Control, Grid interface for Low voltage renewable energy sources and CSI based grid interface for PV systems.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="http://www.ee.iitm.ac.in/user/krishna/" target="_blank"
+                        style="font-size: 14px;color:#545454;">http://www.ee.iitm.ac.in/user/krishna/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/GLS.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. G. L. Samuel</strong><br>
+                Professor, Department of Mechanical Engineering, IIT Madras<br><br>
+                
+                    Dr. G.L. Samuel received his Ph.D. from Indian Institute of Technology Madras. He works as professor in the Department of Mechanical Engineering at IIT Madras. <br />He is life member of Indian Society for Technical Education and also member of Institution of Engineers, Fluid Power Society of India, Australian Institute of High Energetic Materials and Single Point Diamond Tool (SPDT) Society.<br />He has authored a book titled ‘Measurement Systems for characterization of Micro/Nano finished surfaces’.<br><br>
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://mech.iitm.ac.in/meiitm/personnal/g-l-samuel/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://mech.iitm.ac.in/meiitm/personnal/g-l-samuel/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/sathyan_subbaiah.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. S. Sathyan</strong><br>
+                Professor, Department of Mechanical Engineering, IIT Madras<br><br>
+                
+                    Dr. Sathyan Subbiah received his Ph.D. from Georgia Institute of Technology in the year 2006. He works as an associate professor in the Department of Mechanical Engineering at IIT Madras. His interest is in the area of machining (i.e breaking and removing unwanted regions). He is also interested in the broken material that comes out of this process. His current research activities include explorations in tribo-emissions, graphene exfoliation, grinding and powder fabrication.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://home.iitm.ac.in/sathyans" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://home.iitm.ac.in/sathyans</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/DSS.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. Sivasrinivasu Devadula</strong><br>
+                Assistant Professor, Department of Mechanical Engineering, IIT Madras<br><br>
+                
+                    Dr. Sivasrinivasu Devadula received his Ph.D. from Indian Institute of Technology Madras (IIT-Madras), India in 2008. <br />His research interest includes in particular – machining of 3D-surfaces on advanced engineering materials (super alloys, shape memory alloys, high entropy alloys, diamond, engineering ceramics, engineering composites), abrasive waterjet machining, novel tool path strategies, optimization, process modelling and simulation of machine tools.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://mech.iitm.ac.in/meiitm/personnal/dr-sivasrinivasu-devadula/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://mech.iitm.ac.in/meiitm/personnal/dr-sivasrinivasu-devadula/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/PS.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. Piyush Shakya</strong><br>
+                Assistant Professor, Department of Mechanical Engineering, IIT Madras<br><br>
+                
+                    Dr. Piyush Shakya received his PhD from IIT Delhi in the year 2010 (Data fusion based diagnosis and prognosis of ball bearings). His research interest includes Diagnosis and Prognosis, Structural Health Monitoring, Machine Elements (Rolling element bearings and gears), Signal Processing. He worked as Research Fellow in School of Aerospace, Transport and Manufacturing, Cranfield University, Cranfield, U.K. prior to joining IIT Madras. Currently he is working as Assistant Professor in IIT Madras.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://mech.iitm.ac.in/meiitm/personnal/dr-piyush-shakya/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://mech.iitm.ac.in/meiitm/personnal/dr-piyush-shakya/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+      </div>
+      
+
+      <br>
+      <!-- Advisory Committee -->
+      <h3 id="advisory">Advisory Committee</h3>
+      <hr>
+      <div class="ab-content-wrapper">
+              
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/img_9028.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. K. (Subbu) Subramanian</strong><br>
+                Advisor<br><br>
+                
+                    Dr. Krishnamoorthy (Subbu) Subramanian is the founder and President of STIMS Institute, USA.  Prior to STIMS Institute, Dr. Subramanian served as the Director, Surface Preparation Technology at Norton Abrasives and later at Saint-Gobain Co. He has published extensively in the technical and management related topics. He holds 15 patents with several in commercial use.<br />Dr. Subramanian is the year 2020 recipient of the coveted Merchant Medal for Manufacturing jointly awarded by ASME and SME.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://stimsinstitute.com/about/management-team/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://stimsinstitute.com/about/management-team/</a><br>
+                    <br>
+            </div>
+        </div>
+      </div>
+
+      <!-- Research Advisory Committee -->
+      <h3 id="research">Research Advisory Committee</h3>
+
+       <div class="ab-content-wrapper">
+              
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Prof_NRB.JPG)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Prof N Ramesh Babu</strong><br>
+                Chair<br><br>
+                
+                    V Balaraman Institute Chair Professor<br />Dept. of Mechanical Engineering<br />IIT Madras<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://home.iitm.ac.in/nrbabu/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://home.iitm.ac.in/nrbabu/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Dr_VKGanesan.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr Viswanath Kumar Ganesan</strong><br>
+                Member<br><br>
+                
+                    Senior Researcher<br />TCS<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://www.linkedin.com/in/viswanath-kumar-ganesan-21714518a/?trk=public_profile_samename-profile_profile-result-card_result-card_full-click&amp;originalSubdomain=in" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/viswanath-kumar-ganesan-21714518a/?trk=...</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Prof_RMarathe.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Prof Rahul Marathe</strong><br>
+                Member<br><br>
+                
+                    Professor<br />Dept. of Management Studies<br />IIT Madras<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://doms.iitm.ac.in/index.php/rrm" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://doms.iitm.ac.in/index.php/rrm</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Prof_GV.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Prof G Venkatrathnam</strong><br>
+                Member<br><br>
+                
+                    Institute Chair Professor<br />Dept of Mechanical Engineering<br />IIT Madras<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://mech.iitm.ac.in/meiitm/personnal/g-venkatarathnam/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://mech.iitm.ac.in/meiitm/personnal/g-venkatarathnam/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Dr_K_Subramanian.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr K Subramanian</strong><br>
+                Member<br><br>
+                
+                    Executive Director<br />Powergear Ltd.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://www.powergearlimited.com/" target="_blank"
+                        style="font-size: 14px;color:#545454;">https://www.powergearlimited.com/</a><br>
+                    <br>
+                
+
+                
+            </div>
+        </div>
+      </div>
+
+      <!-- AMTDC Staff -->
+      <h3 id="amtdc">AMTDC Staff</h3>
+      <hr>
+         <div class="ab-content-wrapper">
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/radhakrishnan_sir_ed.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Radhakrishnan K</strong><br>
+                        Accounts Officer<br><br>
+                        
+                            Mr. K. Radhakrishnan is a retired Gazetted Central Government official from Office of the CAG of India. He joined AMTDC in May 2016 as an Accounts Officer taking care of accounts, administration and finance matters of AMTDC.<br><br>
+                        
+
+                        
+                            <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                            <a href="http://www.linkedin.com/in/kradhakrishnan1955" target="_blank"
+                                style="font-size: 14px;color:#545454;">http://www.linkedin.com/in/kradhakrishnan1955</a><br>
+                            <br>
+                        
+
+                        
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/damo.png)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Damodharan B</strong><br>
+                        Admin Consultant<br><br>
+                        
+                            Mr. B Damodharan B.com, B.L, worked as a Superindent in IITM, Chennai till 2014 and worked and retired in 2016 as a Asst. Registrar in finance and accounts department. He was then appointed as a project advisor in ICSR, IITM, Chennai and currently working as a consultant in AMTDC, IITMRP, Chennai from Sep, 2018.<br><br>
+                        
+
+                        
+
+                        
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/sri.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. R. Srikanth</strong><br>
+                        Principal Research Engineer<br><br>
+                        
+                            Mr. R. Srikanth joined IIT-Madras in 2010 and has been working in the field of Machine tools on various projects. He has submitted his thesis on &quot;Abrasive water-jet machining&quot; and is awaiting his Ph.D. He is an expert in machine tools and has an in-depth knowledge on industrial manufacturing.<br><br>
+                        
+
+                        
+
+                        
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/Muthu.png)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. R. Vairamuthu</strong><br>
+                        Principal Research Engineer<br><br>
+                        
+                            Mr R Vairamuthu joined AMTDC as Senior Research Engineer in 2019. He  works in the area of machine tools and automation.<br><br>
+                        
+
+                        
+
+                        
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/Vineet_Paliwal.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Vineet Paliwal</strong><br>
+                        Senior Research Engineer<br><br>
+                        
+                            Mr. Vineet Paliwal completed his B.Tech in Mechanical Engineering and then joined Dual degree (MS+PhD) in the Department of Mechanical Engineering in IIT Madras. His main focus areas are Machine tool dynamics, Vibrational analysis of machine tools, Signal processing and Laser material interaction.<br><br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/karthikeyan_acc.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Karthikeyan S</strong><br>
+                        Senior Accountant<br><br>
+                        
+                            Mr. S Karthikeyan received his M.B.A from university of Madras in 2014. He worked as a project assistant in ICSR, IITM, Chennai till 2015 and as a Senior executive in T&amp;M Consulting Services Pvt Ltd., Mumbai till Jan, 2017. He joined AMTDC in Feb 2017 as a Senior Accountant taking care of accounts and finance.<br><br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/harish.png)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Harish S</strong><br>
+                        Assistant Engineer<br><br>
+                        
+                            Mr. Harish S has a vast experience in operation and maintenance of various types of machine tools. He has worked in various Industries from prior to joining AMTDC in 2018.<br><br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/sudakar.png)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Suthakar M</strong><br>
+                        Senior Technician<br><br>
+                        
+                            Mr. Suthakar M has a vast experience in operation and maintenance of various types of machine tools. He has worked in various Industries from 2011 and in IIT-Madras prior to joining AMTDC in 2017.<br><br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/Omkar_Banne.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Omkar Banne</strong><br>
+                        Research Engineer<br><br>
+                        
+                            Mr. Omkar completed M.Tech from College of Engineering Pune (COEP) in July 2018 and joined AMTDC thereafter. Currently he is working on Automation of Grinding Process Intelligence. His interests are machine tools, data analytics and additive manufacturing.<br><br>
+                            <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                            <a href="http://www.linkedin.com/in/omkar-banne-9824b4a9" target="_blank"
+                                style="font-size: 14px;color:#545454;">http://www.linkedin.com/in/omkar-banne-9824b4a9</a><br>
+                            <br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/Karthi_VS_passport_size_pic.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Karthikeyan S</strong><br>
+                        Research Engineer<br><br>
+                        
+                            Karthikeyan S completed his Bachelors Degree under the Discipline of Mechanical Engineering in 2018 and Joined AMTDC in August, 2018. He works on Thermal Compensation Strategy of CNC Lathes Project on along with Industry Partner ACE Designers.<br><br>
+                            <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                            <a href="https://www.linkedin.com/in/karthivs21" target="_blank"
+                                style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/karthivs21</a><br>
+                            <br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/01.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Pranav Admuthe</strong><br>
+                        Research Engineer<br><br>
+                        
+                            Pranav completed his B.Tech in Mechanical Engineering from Vellore Institute of Technology (VIT). Before joining AMTDC he worked as an Intern in gear manufacturing company.<br><br>
+                            <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                            <a href="https://www.linkedin.com/in/pranav-admuthe-094974130" target="_blank"
+                                style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/pranav-admuthe-094974130</a><br>
+                            <br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    
+                        <div class="ab-core-mem-photo" style="background-image: url(img/pics/DSC_0769_c_opy.jpg)"></div>
+                    
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Aditya Lokare</strong><br>
+                        Graduate Research Engineer<br><br>
+                        
+                            Mr. Aditya completed his B.Tech from Amrita School of Engineering, Coimbatore. He is working on projects in the field of robotics.<br><br>
+                    </div>
+                </div>
+            
+                <div class="ab-core-mem-wrapper">
+                    <div class="ab-core-mem-photo" style="background-image: url(img/pics/IMG_20230404_201904_1.jpg)"></div>
+                    <div class="ab-core-mem-description">
+                        <strong>Mr. Sasidaran S</strong><br>
+                        Graduate Research Engineer<br><br>    
+                            Sasidaran completed his Bachelors in Mechanical Engineering from St. Joseph&#39;s College of Engineering and joined AMTDC right after. He is currently working on Automation and robotics project.<br><br>
+                    </div>
+                </div>
+        </div>
+
+      <!-- Intern Students -->
+      <h3 id="intern">Intern Students</h3>
+      <hr>
+      <br>
+      <br>
+
+      <!-- Ex-Employees -->
+      <h3 id="ex">Ex-Employees</h3>
+      <hr>
+      
+       <div class="ab-content-wrapper">
+                
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/download_lPTltgc.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. P. Pradeep Kumar</strong><br>
+                Principal Research Engineer<br><br>
+                
+                    Dr. Pradeep received his Ph.D. in Nanyang Technological University, Singapore on &quot;Material removal mechanism in Abrasive Machining Process&quot; in 2014. After finishing his Ph.D. he worked in Oil&amp;Gas industry and joined  AMTDC as a Senior Project officer in 2016 and completed in 2020. His research interests are Abrasive process mechanics, Smart Manufacturing, Process monitoring &amp; optimization and Industry 4.0.<br><br>
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="http://www.linkedin.com/in/pradeepp88" target="_blank"
+                       style="font-size: 14px;color:#545454;">http://www.linkedin.com/in/pradeepp88</a><br>
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/sar.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Dr. Sarmistha Bakshi</strong><br>
+                Technical Consultant<br><br>
+                
+                    A graduate of Indian Institute of Science, Bangalore (ME &amp; PhD, Materials Engineering), Dr. Sarmistha Bakshi pursued her postdoctoral research in the Technical University of Darmstadt, Germany. She served as an Asst. Prof. in SSN College of Engineering and, thereafter, as a visiting faculty in Anna University for a couple of years, before joining AMTDC. Her research interests include Functionally Graded Materials, graded metal-ceramic-composites, nano-polishing, shape memory effect, etc.<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/sachin.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr Sachin Bagad</strong><br>
+                Research Engineer<br><br>
+                
+                    Sachin has completed M.Tech in Mechanical Engineering from IIT-Madras. He is currently working on the design and development of spine pressure relief system, design of mechanical system components and FEA<br><br>
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://www.linkedin.com/in/sachin-bagad/?originalSubdomain=in" target="_blank"
+                       style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/sachin-bagad/?originalSubdomain=in</a><br>
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/ramanan.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. K. Ramanan</strong><br>
+                Research Engineer<br><br>
+                
+                    Mr. Ramanan completed his Automobile Engineering and following that he worked as a Research Associate in IIT-Delhi and IIT-Madras  prior to joining AMTDC in 2016. He is currently working on the design and development of Hydrostatic Systems for machine tools.<br><br>
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="http://www.linkedin.com/in/ramanankumar7" target="_blank"
+                       style="font-size: 14px;color:#545454;">http://www.linkedin.com/in/ramanankumar7</a><br>
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/jayakumar.png)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Jeyakumar S</strong><br>
+                Research Engineer<br><br>
+                
+                    Pursuing M.S by Research in Electrical engineering department under the guidance of Prof. Krishna Vasudevan<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(/media/team_members/2019/03/9367.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Hari Krishna M</strong><br>
+                Research Engineer<br><br>
+                
+                    Mr. Harikrishna completed Mechanical Engineering in 2017 and joined AMTDC thereafter. Currently he is working on Machine Tending Robot. His interests are Robotics, Machine tools and Data Analytics.<br><br>
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://in.linkedin.com/in/harikrishna-makaram-35855abb" target="_blank"
+                       style="font-size: 14px;color:#545454;">https://in.linkedin.com/in/harikrishna-makaram-35855abb</a><br>
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/akash.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Akash S</strong><br>
+                Research Engineer<br><br>
+                
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/arjun_sarathy.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Arjun Sarathy</strong><br>
+                Research Engineer<br><br>
+                
+                    Doing PhD under Prof. Krishna Vasudevan in electric department of IIT Madras<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/prasanth.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Prasanth S</strong><br>
+                Research Engineer<br><br>
+                
+                    Prasanth S completed his Bachelors Degree under the Discipline of Mechanical Engineering in 2017 and Joined AMTDC in November, 2020. He worked on Low Cost Machine Tending Robot Project along with Industry Partner MTAB, Chennai<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Ajai.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Ajay Vignesh S</strong><br>
+                Engineer<br><br>
+                
+                    Mr. Ajay completed Bachelor of Engineering in Mechanical and have a research experience in IIT-Bombay &amp; IIT-Madras before joining to AMTDC on 2019, Currently he is working on the Development of next-generation machine tools. His area of work involvements are Machine tool Intelligence, Design-Simulation and Artificial intelligence.<br><br>
+                <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://www.linkedin.com/in/ajay-vignesh-016032129/" target="_blank"
+                       style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/ajay-vignesh-016032129/</a><br>
+                    <br>
+                    <a href="/media/team_members/more/2020/11/Ajay_Resume.pdf" style="color:#545454;" target="_blank"><i
+                            class="fa fa-file" aria-hidden="true"></i> More information</a>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/IMG-5778.JPG)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Mr. Harish Sugumar</strong><br>
+                Marketing Manager<br><br>
+                
+                    Mr. Harish Sugumar completed is MTech followed by MBA from BITS Pilani. Prior joining AMTDC , he worked in the Sales and Marketing department for Manufacturing and EdTech industries. He joined AMTDC as Marketing Manager in October 2021 to look after the marketing activities for AMTDC and kite (knowledge integration for technology enrichment) Technology Eco-Platform sanctioned by the Department of Heavy Industry, Government of India.<br><br>
+                
+
+                
+                    <span style="color:#2a2a2a;">Personal Web page:</span> <br>
+                    <a href="https://www.linkedin.com/in/harish-sugumar-0a5045b8/" target="_blank"
+                       style="font-size: 14px;color:#545454;">https://www.linkedin.com/in/harish-sugumar-0a5045b8/</a><br>
+                    <br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Picture1a.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Ms. Bedamati Nayak</strong><br>
+                Senior Research Engineer<br><br>
+                
+                    Ms. Bedamati Nayak completed her M.Tech in Production Technology from NIT Rourkela and currently pursuing PhD in Manufacturing from IIT Madras. Her research focus areas are Metal polishing, process modelling and optimization.<br><br>
+            </div>
+        </div>
+    
+      </div>
+
+      <!-- IITM Students -->
+      <h3 id="iitms">IITM Students</h3>
+      <hr>
+       <div class="ab-content-wrapper">
+                
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/vishal2_3119YbX.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Vishal Paidimarri</strong><br>
+                M.Tech - Dual degree student - IITM 2018 batch<br><br>
+                
+                    Currently working in Eaton India, Pune and he did analytical and numerical simulation on CMD flow controller, Self compensating pads<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/sudhanva1_m5uZRbx.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Sudhanva bhat</strong><br>
+                M.Tech, Dual degree student - IITM 2017 batch<br><br>
+                
+                    Currently doing PhD (PMRF) in IISC, Banagalore and he did Analytical and numerical simulation on Existing and MTD flow controller<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/ashwin.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Ashwin kumar S</strong><br>
+                M.Tech - Dual degree student - IITM 2019 batch<br><br>
+                
+                    Currently working in Bekaert, pune and he did analytical calculation to determine pad dimensions and flow controller optimization for Hydro-static spindle<br><br>
+            </div>
+        </div>
+    
+        <div class="ab-core-mem-wrapper">
+            
+                <div class="ab-core-mem-photo" style="background-image: url(img/pics/Picture1.jpg)"></div>
+            
+            <div class="ab-core-mem-description">
+                <strong>Supriyo Mahata</strong><br>
+                M.S Student<br><br>
+                
+                    <br>
+             </div>
+        </div>
+    
+      </div>
+      <hr>
+    </div>
+      
+   
+
+
+    <div id="para6" class="section-para">
+      <!-- Testimonals -->
+      <h2><span id="testimonals">Testimonals</span></h2>
+      <h4>Dr. A. R. Sihag, Secretary, Dept. of Heavy Industry talks about AMTDC</h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/Sihag.JPG">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/v35v8c-jMOg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>          </li>
+        </ul>
+      </div>
+      <br>
+      <h4>Dr. Sivasrinivasu on Thermal Compensation Strategy </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/Capture.PNG">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/LB1BvovC0z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>  
+          </ul>
+      </div>      
+      <br>
+      <h4>
+        Dr. G. L. Samuel on AMTDC and project on Ultraprecision Micromachining Centre </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/MG_4240.jpg">
+          </li>
+          <!-- other items here -->
+          <li>
+          <iframe src="https://www.youtube.com/embed/RWwdf_Eoyp0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+          </ul>
+      </div>
+      <br>
+      <h4>Dr. S. Sathyan on AMTDC and Hydrostatic Systems </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/IMG_4242.jpg">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/ZIXICZKD2Uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+        </ul>
+      </div>
+      <br>
+      <h4>Prof. Krishna Vasudevan on AMTDC and his project on electric drives </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/IMG_9660_9zFNRNi.jpg">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/humtNhd8hw8?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+        </ul>
+      </div>
+      <br>
+      <h4>
+        Dr. Piyush Shakya on AMTDC </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/_MG_4377.jpg">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/ZI0IgVFu5JM?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+        </ul>
+      </div>
+      <br>
+      <h4>Shri. S Sairaman, Chairman and Technical Director, MTAB </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/mtab.png">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/i2t253ydv1c?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+        </ul>
+      </div>
+      <br>
+      <h4>Shri. Srinivasan Iyer, Managing Director, IDAPL, Thane </h4>
+      <div class="container">
+        <!-- heading text -->
+        <ul class="image-gallery">
+          <li>
+            <img src="img/pics/Interface.jpg">
+          </li>
+          <!-- other items here -->
+          <li>
+            <iframe src="https://www.youtube.com/embed/gLnXu3l7ROM?autoplay=1&mute=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          </li>
+        </ul>
+      </div>
+
+      <br>
+    </div>
+
+    <div class="section-para">
+      <!--Awards&Recognition-->
+      <h2><span id="awards">Awards & Recognition</span></h2>
+      <hr>
+      <p>
+        <br>
+      </p>
+      <br>
+    </div>
+
+    
+    
+ 
   
-  .section-inner {
-    bottom: 75px;
-    left: 20px;
-  }
-
-  .section-inner h2 {
-    font-size: 20px;
-    color: orangered;
-  }
-
-  .section-inner h4 {
-    font-size: 15px;
-    color: #000;
-  }
-
-  .section-c{
-    background-image: url("../img/mtabrob1.png");
-  }
-  .section-h{
-    background-size: 370px 540px;
-  }
-
-  .section1 {
-    height: 1700px;
-  }
-
-  .section2 {
-    height: 1500px;
-  }
-
-  .section-para h2{
-    font-size: 20px;
-  }
-
-  .section-para h3{
-    font-size: 17px;
-  }
-
-  .section-para h4{
-    font-size: 15px;
-  }
-
-  footer ul li:first-child {
-    position: relative;
-    top: 30px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-
-  footer ul li {
-    margin-right: 15px;
-  }
-
-  .logo {
-    width: 150px;
-    margin: auto;
-  }
-  .amtdc-title {
-    display: none;
-  }
-
-  .section-inner-center h3 {
-    font-size: 50px;
-  }
-
-  /* Stats */
-  .stats {
-    flex-direction: column;
-  }
-
-  .stats div {
-    margin-bottom: 20px;
-  }
-
-  .btn {
-    position: relative;
-    display: inline-block;
-    cursor: pointer;
-    text-align: center;
-    min-width: 60px;
-    padding: 7px 25px;
-    margin-top: 10px;
-    border: 2px solid #000;
-    text-transform: uppercase;
-    font-weight: bold;
-    overflow: hidden;
-    z-index: 2;
-  }
-  
-  .btn:hover span {
-    color: #000;
-  }
-  
-  .btn .hover {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgb(252, 102, 42);
-    color: #000;
-    z-index: -1;
-    transform: translateY(100%);
-    transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-  }
-
-  .sidebar-main-menu{
-    top: 30px;
-  }
-
-  .sidebar-hamburger{
-    top: 6px;
-  }
-
-  .sidebar-hamburger-top,
-  .sidebar-hamburger-middle,
-  .sidebar-hamburger-bottom{
-    top: 10px;
-  }
-  
-  .sidebar-hamburger-top {
-    transform: rotate(45deg) translateY(6px) translateX(6px);
-  }
-  
-  .sidebar-hamburger-middle {
-    display: none;
-  }
-  
-  .sidebar-hamburger-bottom {
-    transform: rotate(-45deg) translateY(6px) translateX(-6px);
-  }
-  
-  .close {
-    transform: rotate(90deg);
-    top: 20px;
-    left: 2px;
-  }
-
-  .close .sidebar-hamburger-top {
-    top: 0;
-    left: 10px;
-  }
-
-  .close .sidebar-hamburger-middle {
-    transform: translateY(5px);
-  }
-  
-  .close .sidebar-hamburger-bottom {
-    transform: translateY(10px);
-  }
-}
-
-@media (max-width:420px){
-  .section1 {
-    height: 500px;
-  }
-  .sidebar-main-menu {
-    transform: translateX(-100%);
-    transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-  }
-  .section-para {
-    transform: translateX(-50%);
-    transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-  }
-.sidebar-hamburger-top,
-.sidebar-hamburger-middle,
-.sidebar-hamburger-bottom {
-  position: absolute;
-  width: 20px;
-  height: 2px;
-  top: 0;
-  right: 0;
-  background: rgb(252, 102, 48);
-  transition: all 0.5s;
-}
-
-.sidebar-hamburger-middle {
-  transform: translateY(5px);
-}
-
-.sidebar-hamburger-bottom {
-  transform: translateY(10px);
-}
-
-.sidebar-hamburger{
-  transform: rotate(90deg);
-}
-
-.hide-menu{
-  transform: translateX(5%);
-  transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
-}
-.close{
-  transform: rotate(0deg) translateX(45px) translateY(-15px);
-}
-.mobile-main-menu{
-  width: auto;
-  height: auto;
-}
-}
+    <footer>
+      <ul>
+        <li>AMTDC &copy; 2023</li>
+        <li><a href="#">Twitter</a></li>
+        <li><a href="#">YouTube</a></li>
+        <li><a href="#">Instagram</a></li>
+        <li><a href="https://www.facebook.com/iitm.amtdc/" target="_blank">Facebook</a></li>
+        <li><a href="https://www.linkedin.com/in/amtdc-iit-madras-145850154/" target="_blank">LinkedIn</a></li>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Suppliers</a></li>
+      </ul>
+    </footer>
+  </body>
+</html>
