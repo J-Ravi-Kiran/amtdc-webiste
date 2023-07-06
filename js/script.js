@@ -4,12 +4,12 @@ const menu = document.getElementById('mobile-menu');
 const btn1 = document.getElementById('sidebar-menu-btn');
 const sidebar = document.getElementById('sidebar-menu');
 const desktop = document.getElementById('desktop-menu');
-const para1 = document.getElementById('para1');
+const para = document.getElementById('para');
+const para2 = document.getElementById('para2');
 const para3 = document.getElementById('para3');
 const para4 = document.getElementById('para4');
 const para5 = document.getElementById('para5');
 const para6 = document.getElementById('para6');
-const para7 = document.getElementById('para7');
 const counters = document.querySelectorAll('.counter');
 let scrollStarted = false;
 
@@ -27,12 +27,12 @@ function navToggle() {
 function sidebarnavToggle() {
   btn1.classList.toggle('close');
   sidebar.classList.toggle('hide-menu');
-  para1.classList.toggle('expand');
+  para.classList.toggle('expand');
+  para2.classList.toggle('expand');
   para3.classList.toggle('expand');
   para4.classList.toggle('expand');
   para5.classList.toggle('expand');
   para6.classList.toggle('expand');
-  para7.classList.toggle('expand');
 }
 
 function scrollPage() {
