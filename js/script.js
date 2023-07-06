@@ -4,7 +4,7 @@ const menu = document.getElementById('mobile-menu');
 const btn1 = document.getElementById('sidebar-menu-btn');
 const sidebar = document.getElementById('sidebar-menu');
 const desktop = document.getElementById('desktop-menu');
-const para = document.getElementById('para');
+const para1 = document.getElementById('para1');
 const para2 = document.getElementById('para2');
 const para3 = document.getElementById('para3');
 const para4 = document.getElementById('para4');
@@ -27,7 +27,7 @@ function navToggle() {
 function sidebarnavToggle() {
   btn1.classList.toggle('close');
   sidebar.classList.toggle('hide-menu');
-  para.classList.toggle('expand');
+  para1.classList.toggle('expand');
   para2.classList.toggle('expand');
   para3.classList.toggle('expand');
   para4.classList.toggle('expand');
