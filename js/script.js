@@ -10,6 +10,7 @@ const para3 = document.getElementById('para3');
 const para4 = document.getElementById('para4');
 const para5 = document.getElementById('para5');
 const para6 = document.getElementById('para6');
+const para7 = document.getElementById('para7');
 const counters = document.querySelectorAll('.counter');
 let scrollStarted = false;
 
@@ -33,6 +34,7 @@ function sidebarnavToggle() {
   para4.classList.toggle('expand');
   para5.classList.toggle('expand');
   para6.classList.toggle('expand');
+  para7.classList.toggle('expand');
 }
 
 function scrollPage() {
