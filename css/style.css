@@ -1093,6 +1093,7 @@ footer ul li a:hover {
 }
 
 @media(width: 1920px){
+  
   .expand {
     transform: translateX(-3%);
     transition: transform 0.6s cubic-bezier(0.19, 1, 0.22, 1);
